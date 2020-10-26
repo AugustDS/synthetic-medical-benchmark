@@ -90,7 +90,7 @@ Here, we only explain a few training parameters, see the official [prog-GAN](htt
 
 # License
 
-[MIT License](https://gitlab.ethz.ch/augustd/synthetic_dataset_benchmark/-/blob/master/LICENSE.txt)
+[MIT License](https://github.com/AugustDS/synthetic-medical-benchmark/blob/master/LICENSE.txt)
 
 
 
