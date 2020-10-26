@@ -1,6 +1,6 @@
 ### Overcoming Barriers to Data Sharing with Medical Image Generation:  A Comprehensive Evaluation
 
-Code to re-produce the benchmark of synthetic medical imaging datasets for chest radiographs and brain CT scans, consisting of GAN training & inference, predicitive model training & testing, computing the nearest neighbours of selected images and finding the attribution maps for the trained classifier. 
+Code to reproduce the benchmark of synthetic medical imaging datasets for chest radiographs and brain CT scans, consisting of GAN training & inference, predicitive model training & testing, computing the nearest neighbours of selected images and finding the attribution maps for the trained classifier. 
 
 (arXiv link coming soon)
 
