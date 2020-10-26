@@ -1,0 +1,15 @@
+numpy>=1.13.3
+tensorflow-gpu==1.14.0
+tensorflow==1.14.0
+keras==2.2.4
+scikit-image>=0.16.2
+scikit-learn>=0.22.1
+six>=1.11.0
+h5py>=2.10.0
+pillow>=3.1.1
+scipy>=1.0.0
+lmdb>=0.93
+opencv-python>=3.4.0.12
+cryptography>=2.1.4
+moviepy>=0.2.3.2
+pandas>=0.23.4
