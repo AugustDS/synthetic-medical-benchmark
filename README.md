@@ -11,9 +11,6 @@ _Privacy concerns around sharing personally identifiable information are a major
 <img src="/teaser.png"  width="530" height="290">
 
 **Teaser Figure:** Generated images, nearest neighbours and some benchmark plots
-# License
-
-[MIT License](https://gitlab.ethz.ch/augustd/synthetic_dataset_benchmark/-/blob/master/LICENSE.txt)
 
 ## Preparing datasets for training
 
@@ -91,7 +88,9 @@ Here, we only explain a few training parameters, see the official [prog-GAN](htt
     - The results will be saved in the `nn_files` directory in form of `.npy` files
     - _**Example** (Brain resolution=64): `> python3 nn.py nn /work/classifier_fake /work/brain_dataset/resolution/64 64`_
 
+# License
 
+[MIT License](https://gitlab.ethz.ch/augustd/synthetic_dataset_benchmark/-/blob/master/LICENSE.txt)
 
 
 
