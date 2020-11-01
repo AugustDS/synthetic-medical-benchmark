@@ -4,7 +4,7 @@ Code to reproduce the benchmark of synthetic medical imaging datasets for chest 
 
 **[Project Page Link](https://sites.google.com/view/synthetic-benchmark/home)**
 
-**(arXiv link coming soon)**
+**(arXiv preprint link coming soon)**
 
 ## Abstract
 
