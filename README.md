@@ -45,7 +45,7 @@ Here, we only explain a few training parameters, see the official [prog-GAN](htt
     - The results (tfrecord files) will be saved under `results_dir/inference`.
         - _**Example** (Chest samples=500):  `> python3 test.py test /work/chest_dataset/samples/500 /work/chest_benchmark/samples/500 1000 32`_
 
-## Fake and real classifier trainig and testing
+## Fake and real classifier training and testing
 1. Download [densenet121_weights_tf_dim_ordering_tf_kernels_notop.h5](https://github.com/fchollet/deep-learning-models/releases/download/v0.8/densenet121_weights_tf_dim_ordering_tf_kernels_notop.h5) (densenet-121 pretrained weights). 
 2. Edit the `config.py`files in the `classifier_fake` and `classifier_real` directory, especially the path_to_densenet_pretrained_weights, (other training parameters should be the same as for both).
 3. **Fake**
